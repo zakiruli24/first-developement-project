@@ -13,6 +13,17 @@ body{
 h2{
     font-size: 40px;
 }
-.heat-title{
-    font-color: pink;
+h1{
+    font-size: 40px;
+}
+h2 span{
+    color: pink;
+}
+.abutton{
+    color:white;
+    font-weight: 600px;
+    border-radius:6px;
+    padding:10px 45px;
+    text-decoration:none;
+    background: tomato;
 }
