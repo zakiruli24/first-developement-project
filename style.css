@@ -27,3 +27,15 @@ h2 span{
     text-decoration:none;
     background: tomato;
 }
+.sec-head{
+    font-size: 20px;
+}
+
+.sec-abutton{
+    color:white;
+    font-weight: 600px;
+    border-radius:6px;
+    padding:40px 45px;
+    text-decoration:none;
+    background: tomato;
+}
